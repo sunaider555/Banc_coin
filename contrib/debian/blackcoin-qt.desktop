@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BancCoin
+Comment=BancCoin P2P Cryptocurrency
+Comment[fr]=BancCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BancCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/banccoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/banccoin;
+Categories=Office;
