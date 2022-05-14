@@ -2,6 +2,7 @@
 
 Scrypt Algo PoW/PoS Hybrid Cryptocurrency
 
+
 Intro
 ==========================
 Banccoin is an anonymous, untraceable and secure hybrid cryptocurrency. 
@@ -12,6 +13,7 @@ Banccoin [BCCN] is an anonymous, untraceable, energy efficient, Proof-of-Work (N
 
 5,000,000,000 BCCN will be created in about 10 years during the PoW phase. Banccoin has a 90% Premine for bounty
 
+
 Specifications
 ==========================
 * Total number of coins: 5,000,000,000 BCCN
@@ -20,6 +22,7 @@ Specifications
 * Confirmations: 10 blocks
 * Maturity: 10 blocks 
 * Min stake age: 8 hours
+
 
 LINKS
 ==========================
